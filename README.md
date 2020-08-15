@@ -8,3 +8,7 @@
 - 📫 How to reach me: +2348179386053
 - 😄 Pronouns: none
 - ⚡ Fun fact: I listen to different types of music
+
+
+<img align="left" alt="Ifejesu' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ifejesu&show_icons=true&hide_border=true" />
+
