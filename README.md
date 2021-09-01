@@ -8,6 +8,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an aspiring geek
 
+<a href="https://frontend.code-inspector.com/public/user/github/Ifejesu">
+   <img src="https://code-inspector.com/public/badge/user/github/Ifejesu?style=light" alt="code inspector badge" />
+</a>
+
 
 <img align="left" alt="Ifejesu' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ifejesu&show_icons=true&hide_border=true" />
 
